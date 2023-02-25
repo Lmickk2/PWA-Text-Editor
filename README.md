@@ -4,6 +4,10 @@
 
 Just another text editor: Edit your code on this simple text editor application, and download it directly to your computer to use offline!
 
+## Deployed Link
+
+- https://boiling-wildwood-19068.herokuapp.com/
+
 ## Usage
 
 - Navigate to the provided Heroku link.
